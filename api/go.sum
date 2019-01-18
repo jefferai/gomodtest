@@ -20,8 +20,8 @@ github.com/hashicorp/go-sockaddr v1.0.1 h1:eCkkJ5KOOktDvwbsE9KPyiBWaOfp1ZNy2gLHg
 github.com/hashicorp/go-sockaddr v1.0.1/go.mod h1:rB4wwRAUzs07qva3c5SdrY/NEtAUjGlgmH/UkBUC97A=
 github.com/hashicorp/hcl v1.0.0 h1:0Anlzjpi4vEasTeNFn2mLJgTSwt0+6sfsiTG8qcWGx4=
 github.com/hashicorp/hcl v1.0.0/go.mod h1:E5yfLk+7swimpb2L/Alb/PJmXilQ/rhwaUYs4T20WEQ=
-github.com/jefferai/gomodtest/internal v1.0.1 h1:GzrSi7QAZ6/uW2JlAcoGvpRKzfxXpBt3CpUoqFd9Hy8=
-github.com/jefferai/gomodtest/internal v1.0.1/go.mod h1:ISK6zlrb6YiZmbzVxVL2kcFDxaEa5B+QkWnDU6SPniI=
+github.com/jefferai/gomodtest/internal v1.0.3 h1:wjEH5z2VixUoxsqI/Q+5Z0FlB7P8h9xJ3g/D1kS52V4=
+github.com/jefferai/gomodtest/internal v1.0.3/go.mod h1:MGnkoz8aX/AHw8PM40VcWePfZY+zCYwf3efB9I9KgDk=
 github.com/mattn/go-colorable v0.0.9/go.mod h1:9vuHe8Xs5qXnSaW/c/ABM9alt+Vo+STaOChaDxuIBZU=
 github.com/mattn/go-isatty v0.0.3/go.mod h1:M+lRXTBqGeGNdLjl/ufCoiOlB5xdOkqRJdNxMWT7Zi4=
 github.com/mitchellh/cli v1.0.0/go.mod h1:hNIlj7HEI86fIcpObd7a0FcrxTWetlwJDGcceTlRvqc=
