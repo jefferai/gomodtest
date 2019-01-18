@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/hashicorp/vault/helper/jsonutil"
+	"github.com/jefferai/gomodtest/internal/jsonutil"
 )
 
 // Response is a raw response that wraps an HTTP response.

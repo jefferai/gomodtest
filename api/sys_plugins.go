@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/hashicorp/vault/helper/consts"
+	"github.com/jefferai/gomodtest/internal/consts"
 	"github.com/mitchellh/mapstructure"
 )
 

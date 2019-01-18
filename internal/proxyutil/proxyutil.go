@@ -9,7 +9,7 @@ import (
 	proxyproto "github.com/armon/go-proxyproto"
 	"github.com/hashicorp/errwrap"
 	sockaddr "github.com/hashicorp/go-sockaddr"
-	"github.com/jefferai/typetest/internal/parseutil"
+	"github.com/jefferai/gomodtest/internal/parseutil"
 )
 
 // ProxyProtoConfig contains configuration for the PROXY protocol

@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"github.com/hashicorp/errwrap"
-	"github.com/hashicorp/vault/helper/jsonutil"
-	"github.com/hashicorp/vault/helper/parseutil"
+	"github.com/jefferai/gomodtest/internal/jsonutil"
+	"github.com/jefferai/gomodtest/internal/parseutil"
 )
 
 // Secret is the structure returned for every secret within Vault.

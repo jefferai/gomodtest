@@ -10,7 +10,7 @@ import (
 
 	"github.com/hashicorp/errwrap"
 	sockaddr "github.com/hashicorp/go-sockaddr"
-	"github.com/jefferai/typetest/internal/strutil"
+	"github.com/jefferai/gomodtest/internal/strutil"
 	"github.com/mitchellh/mapstructure"
 )
 

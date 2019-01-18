@@ -8,7 +8,7 @@ import (
 	"io"
 
 	"github.com/hashicorp/errwrap"
-	"github.com/jefferai/typetest/internal/compressutil"
+	"github.com/jefferai/gomodtest/internal/compressutil"
 )
 
 // Encodes/Marshals the given object into JSON

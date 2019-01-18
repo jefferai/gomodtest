@@ -14,7 +14,7 @@ import (
 	rootcerts "github.com/hashicorp/go-rootcerts"
 	"github.com/hashicorp/hcl"
 	"github.com/hashicorp/hcl/hcl/ast"
-	"github.com/hashicorp/vault/helper/hclutil"
+	"github.com/jefferai/gomodtest/internal/hclutil"
 	"github.com/mitchellh/mapstructure"
 )
 

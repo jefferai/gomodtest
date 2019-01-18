@@ -9,7 +9,7 @@ import (
 	"os"
 
 	"github.com/hashicorp/errwrap"
-	"github.com/hashicorp/vault/helper/jsonutil"
+	"github.com/jefferai/gomodtest/internal/jsonutil"
 )
 
 const (
