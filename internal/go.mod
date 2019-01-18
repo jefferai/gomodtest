@@ -1,4 +1,4 @@
-module github.com/jefferai/typetest/internal
+module github.com/jefferai/gomodtest/internal
 
 require (
 	github.com/armon/go-proxyproto v0.0.0-20180202201750-5b7edb60ff5f
