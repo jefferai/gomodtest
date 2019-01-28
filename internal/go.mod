@@ -9,4 +9,5 @@ require (
 	github.com/hashicorp/hcl v1.0.0
 	github.com/mitchellh/mapstructure v1.1.2
 	github.com/pierrec/lz4 v2.0.5+incompatible
+	github.com/ryanuber/go-glob v1.0.0
 )
