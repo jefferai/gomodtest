@@ -1,5 +1,7 @@
 module github.com/jefferai/gomodtest/internal
 
+go 1.12
+
 require (
 	github.com/armon/go-proxyproto v0.0.0-20180202201750-5b7edb60ff5f
 	github.com/golang/snappy v0.0.0-20180518054509-2e65f85255db
