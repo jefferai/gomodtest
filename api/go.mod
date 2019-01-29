@@ -11,7 +11,7 @@ require (
 	github.com/hashicorp/go-retryablehttp v0.5.2
 	github.com/hashicorp/go-rootcerts v1.0.0
 	github.com/hashicorp/hcl v1.0.0
-	github.com/jefferai/gomodtest/internal v1.0.4
+	github.com/jefferai/gomodtest/internal v1.0.5
 	github.com/mitchellh/mapstructure v1.1.2
 	golang.org/x/net v0.0.0-20190125091013-d26f9f9a57f3
 	golang.org/x/text v0.3.0 // indirect
